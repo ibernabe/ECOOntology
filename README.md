@@ -115,7 +115,8 @@ WHERE {
 
 ## Files
 
-- `eco.ttl`: ontology definition.
+- `InstancesExampoleECOv0.2`: Ontology definition.
+- `OntologyEcov0.2`: Ontology definition.
 - `README.md`: this document.
 
 ## Authors and license
