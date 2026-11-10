@@ -123,6 +123,6 @@ WHERE {
 - **Author(s):** Alberto Fernández Gil, Iván Bernabé Sánchez.
 - **License:** CC BY 4.0.
 ## How to cite:
-APA: Sánchez, I. B., Fernández, A., Billhardt, H., & Ossowski, S. (2023). Problem detection in the edge of IoT applications. IJIMAI, 8(3), 85-97.
-ISO 690: SÁNCHEZ, Iván Bernabé, et al. Problem detection in the edge of IoT applications. IJIMAI, 2023, vol. 8, no 3, p. 85-97.
-MLA: Sánchez, Iván Bernabé, et al. "Problem detection in the edge of IoT applications." IJIMAI 8.3 (2023): 85-97.
+**APA:** Sánchez, I. B., Fernández, A., Billhardt, H., & Ossowski, S. (2023). Problem detection in the edge of IoT applications. IJIMAI, 8(3), 85-97.\
+**ISO 690:** SÁNCHEZ, Iván Bernabé, et al. Problem detection in the edge of IoT applications. IJIMAI, 2023, vol. 8, no 3, p. 85-97.\
+**MLA:** Sánchez, Iván Bernabé, et al. "Problem detection in the edge of IoT applications." IJIMAI 8.3 (2023): 85-97.\
