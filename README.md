@@ -115,15 +115,18 @@ WHERE {
 
 ## Files
 
-- `InstancesExampoleECOv0.2`: Ontology definition.
-- `OntologyEcov0.2`: Ontology definition.
+- `InstancesExampoleECOv0.2`: example instances.
+- `OntologyEcov0.2`: ontology definition.
 - `README.md`: this document.
 
-## Authors and license
+## Authors, base ontology and license
 
 - **Author(s):** Alberto Fernández Gil, Iván Bernabé Sánchez.
-- **License:** CC BY 4.0.
-## How to cite:
-**APA:** Sánchez, I. B., Fernández, A., Billhardt, H., & Ossowski, S. (2023). Problem detection in the edge of IoT applications. IJIMAI, 8(3), 85-97.\
-**ISO 690:** SÁNCHEZ, Iván Bernabé, et al. Problem detection in the edge of IoT applications. IJIMAI, 2023, vol. 8, no 3, p. 85-97.\
-**MLA:** Sánchez, Iván Bernabé, et al. "Problem detection in the edge of IoT applications." IJIMAI 8.3 (2023): 85-97.\
+- **Based on:** SEAS (Smart Energy Aware Systems) ontology, `https://ci.mines-stetienne.fr/seas/`, imported as `seas:SystemOntology-1.1`.
+- **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0).
+
+## How to cite
+
+- **APA:** Sánchez, I. B., Fernández, A., Billhardt, H., & Ossowski, S. (2023). Problem detection in the edge of IoT applications. *IJIMAI*, 8(3), 85-97.
+- **ISO 690:** SÁNCHEZ, Iván Bernabé, et al. Problem detection in the edge of IoT applications. *IJIMAI*, 2023, vol. 8, no 3, p. 85-97.
+- **MLA:** Sánchez, Iván Bernabé, et al. "Problem detection in the edge of IoT applications." *IJIMAI* 8.3 (2023): 85-97.
