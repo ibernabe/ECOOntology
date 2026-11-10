@@ -102,16 +102,6 @@ WHERE {
 }
 ```
 
-## Known issues (v0.2)
-
-- `eco:hasProblem` declares two domains (`eco:ComputingNode` and `eco:Problem`). In RDFS and OWL, a subject with several domains belongs to all of them at once, so every node is also inferred to be an `eco:Problem`.
-- With that domain, a software entity that has a problem would be inferred to be an `eco:ComputingNode`, which is disjoint from `eco:Software`. This makes the ontology inconsistent. Check it with a reasoner such as HermiT or Pellet.
-- The restrictions `hasProblem some Problem` on `ComputingNode` and `Software` require every node and every software entity to have at least one problem. The intent was probably to allow it, not to require it.
-- `eco:hasProblem` is functional and inverse functional: a node has a single problem, and a problem belongs to a single node.
-- Duplicated or near-duplicate properties: `connectedToNetwork` / `connectedToTheNetwork`, `packetsReceived` / `receivedPackets`, `packetsSent` / `sentPackets`, `freeRAM` / `ramMemoryFree`.
-- Typos in names: `ProblemWithEnviromentPhysics` (should be *Environment*) and `softwareIsRunnig` (should be *Running*).
-- No class or property has an `rdfs:label` or `rdfs:comment`.
-- `eco:Event` has no superclass and no properties.
 
 ## Files
 
